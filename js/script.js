@@ -70,7 +70,7 @@ const appendPageLinks = (list) => {
              a.classList.remove('active');
             }
          }
-         showPage(listItems, e.target.textContent);
+         showPage(list, e.target.textContent);
          e.target.className = 'active';
       });
 }
