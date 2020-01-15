@@ -1,7 +1,9 @@
 # List Pagination And Filtering
 
-## This webpage is a practice of pagination
+## FSJS Techdegree Project 2 (teamtreehouse.com)
 
-### Accomplished as an exam project during the Treehouse FSJS Techdegree program
+### Author: Anton Kilk
+
+### Description:
 
 The webpage dynamically limits the input of students data to display only 10 contacts at once. Use search bar for fast filtering.
